@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Alkatra-VariableFont_wght.ttf",
+      "sha1": "b82c5927d2c0898ec0a279b85c4488fd8c120c22"
+    },
+    {
+      "path": "assets/fonts/Fasthand-Regular.ttf",
+      "sha1": "4d884759d42a5aa94da5485ae967c0b1ee76ef2f"
+    },
+    {
+      "path": "assets/fonts/Raleway-Italic-VariableFont_wght.ttf",
+      "sha1": "f7dd11047c65dac9c3538930cec65db6de4500f6"
+    },
+    {
+      "path": "assets/fonts/Raleway-VariableFont_wght.ttf",
+      "sha1": "1313d0f3ae4fe109e8ee0d416bbae29b6f95dece"
+    }
+  ]
+}
